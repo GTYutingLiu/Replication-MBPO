@@ -1,6 +1,7 @@
 ## Overview
 
 Replication of [When to Trust Your Model: Model-Based Policy Optimization](https://arxiv.org/abs/1906.08253)
+Accepted Paper of the project can be seen here: https://github.com/ReScience/NeurIPS-2019/blob/master/liuReWhenTrust/journal/article.pdf
 
 ## Dependencies
 
